@@ -61,12 +61,19 @@ Optimized for reporting and analytics
 
 ## Databricks Demonstrated Skills
 Building scalable **Medallion Architecture pipelines**
+
 Implementing Delta Lake **MERGE (upsert)** for incremental loads
+
 Enabling Change Data Feed (CDF) for efficient data processing
+
 Writing efficient** PySpark** transformations
+
 Designing fact and dimension data models
+
 Handling data quality issues (nulls, formats, duplicates)
+
 **Orchestrating workflow**s using Databricks Workflows
+
 Managing reusable configurations via utility notebooks
 
 
